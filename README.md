@@ -19,7 +19,9 @@ If you have previously used X RAW STUDIO, you should see a folder for every Fuji
 
 ### Windows
 
-I do not own a Windows machine to check where the recipes are stored.
+```
+C:\Users\YOURNAME\AppData\Local\com.fujifilm.denji\X_RAW_STUDIO\
+```
 
 ---
 
