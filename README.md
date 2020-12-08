@@ -11,9 +11,9 @@ To use the provided recipes you need a Fuji Camera that supports [X RAW STUDIO](
 ```Shell
 open ~/Library/Application\ Support/com.fujifilm.denji/X\ RAW\ STUDIO/
 ```
-![Recipes Location](https://github.com/akirichev/fujifilm-recipes/blob/master/images/recipes-location.png?raw=true)
+![Recipes Location](https://github.com/akirichev/fujifilm-recipes/blob/gh-pages/images/recipes-location.png?raw=true)
 
-If you have previously used X RAW STUDIO, you should see a folder for every Fujifilm camera that you've used to convert images. Iside the folder named after your camera, there should be another one with a similar name. In my case it was named "X-T3_0100". 
+If you have previously used X RAW STUDIO, you should see a folder for every Fujifilm camera that you've used to convert images. Inside the folder named after your camera, there should be another one with a similar name. In my case it was named "X-T3_0100". 
 
 3. Copy and Paste the contents of "recipes" folder inside the second folder and next time you launch [X RAW STUDIO](https://fujifilm-x.com/en-us/stories/fujifilm-x-raw-studio-features-users-guide/) and connect you supported camera, the list of newly added simulations will appear.
 
