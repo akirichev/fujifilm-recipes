@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ConversionProfile application="XRFC" version="1.10.0.0">
-    <PropertyGroup device="X-T3" version="X-T3_0100" label="Kodak Vision3 250D">
+    <PropertyGroup device="X-T3" version="X-T3_0100" label="Monochrome Kodachrome">
         <SerialNumber></SerialNumber>
         <TetherRAWConditonCode></TetherRAWConditonCode>
         <Editable>TRUE</Editable>
